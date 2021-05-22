@@ -6,7 +6,7 @@
  
  Unter Netbeans lassen sich die Projekte aus dem Archiv in den jeweiligen sourcecode Ordner der Projekte damit öffnen. 
  
- Bitte auch die Lesemich Anleitungen befolgen! Insbesondere bei AccountErstellen.jar Projekt Archiv
+ Bitte auch die Lesemich Anleitungen befolgen! Insbesondere im AccountErstellen.jar Projekt Archiv
 
 Zum Accounterstellen: 
 
