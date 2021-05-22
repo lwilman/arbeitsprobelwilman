@@ -12,7 +12,7 @@
 
 (i). Unbedingt die jar Dateien vom Lib Ordner mitnehmen und im Accounterstellen.jar übergeordneten Verzeichniss des Lib Ordners starten
  
-(ii). Aus dem zip Archiv des MEGA Links "https://mega.nz/folder/pAwQWJ5b#KajZwgy97bLSYxRfJ7_4Tw" auch die Bestandteile für HSQLDB besorgen! Diese sind nicht in diesem repository. 
+(ii). Aus dem zip Archiv des MEGA Links "https://mega.nz/folder/pAwQWJ5b#KajZwgy97bLSYxRfJ7_4Tw" auch die Bestandteile für HSQLDB im Ordner "AnleitungZurServerAufsetzung" besorgen! Diese sind nicht in diesem repository. 
 
 # Zum Keks Klicker Spiel:
 
